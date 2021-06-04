@@ -15,7 +15,7 @@ variables:
   webAppName: 'Node on Azure'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'Azure ProdEnv'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
